@@ -1,6 +1,6 @@
-Id,”¢Œƒ
+Id,√ì¬¢√é√Ñ
 Id,en
-cardSpecialDesc_1001,"<color=#ffffff>Poisoned£∫</color>Take damage at start of turn,then amount-1."
+cardSpecialDesc_1001,"<color=#ffffff>Poisoned¬£¬∫</color>Take damage at start of turn,then amount-1."
 cardSpecialDesc_1002,<color=#ffffff>Armor: </color>Withstand damage.
 cardSpecialDesc_1003,"<color=#ffffff>Burn: </color>Take fire damage when using card, then amount-2"
 cardSpecialDesc_1004,<color=#ffffff>Frailty: </color>Take additional damage this turn.
@@ -9,13 +9,13 @@ cardSpecialDesc_1006,"<color=#ffffff>Weakness: </color>The physical damage you d
 cardSpecialDesc_1007,"<color=#ffffff>Double Effect: </color>When used, takes effects 1 more time."
 cardSpecialDesc_1008,1
 cardSpecialDesc_1009,"<color=#ffffff>Side effect:</color>Includes Burn,Chilled,Stuck,Poison"
-cardSpecialDesc_1010,<color=#ffffff>Temporary£∫</color>Will disapear after use.Won't be shuffled to deck.
+cardSpecialDesc_1010,<color=#ffffff>Temporary¬£¬∫</color>Will disapear after use.Won't be shuffled to deck.
 cardSpecialDesc_1011,1
 cardSpecialDesc_1012,1
 cardSpecialDesc_1013,1
 cardSpecialDesc_1014,1
 cardSpecialDesc_1015,"<color=#ffffff>Stuck:</color>Have chance of losing effect when using card,then amount-2."
-cardSpecialDesc_1016,"<color=#ffffff>Freeze:</color>1-cost action card:Exile,draw a card."
+cardSpecialDesc_1016,"<color=#ffffff>Freeze:</color> This is modified text."
 cardSpecialDesc_1017,"<color=#ffffff>Drained:</color>2-mana-cost card:Exile,draw a card,enemy gain 2 mana."
 cardSpecialDesc_1018,<color=#ffffff>Potent:</color>Your Potions are more effectable.
 cardSpecialDesc_1019,"<color=#ffffff>Exile:</color>When a card is Exiled,it can never be drawn in this combat anymore."
@@ -30,7 +30,7 @@ cardSpecialDesc_1027,"<color=#ffffff>Own:</color>Before the combat starts,the ca
 cardSpecialDesc_1028,<color=#ffffff>Recycle(X):</color>Add a copy to your hand.Can be triggered X times.
 cardSpecialDesc_1029,"<color=#ffffff>Blood Drinker:</color>1-mana-cost card:Exiled.Absorb 2 health,draw a card."
 cardSpecialDesc_1030,1
-cardSpecialDesc_1031,<color=#ffffff>Potent Brewing:</color>1-action-cost card:Exiled.Gain potent °¡1.
+cardSpecialDesc_1031,<color=#ffffff>Potent Brewing:</color>1-action-cost card:Exiled.Gain potent ¬°√Å1.
 cardSpecialDesc_1032,<color=#ffffff>Bleeding:</color>Take 1 piercing damage when you take physical damage.
 cardSpecialDesc_1033,<color=#ffffff>Confession: </color>Deal piercing damage to the enemy at start of your turn.
 cardSpecialDesc_1034,<color=#ffffff>Pyroblast:</color>8-mana-cost card:Deal 25 fire damage.
