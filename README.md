@@ -10,3 +10,4 @@ Now we provide 3 kind of files for users.
 
 
 # Toturial
+https://github.com/NightofFullMoon/Translation/blob/master/FM_Translate_Tutorial.pdf
