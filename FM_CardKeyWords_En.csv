@@ -1,0 +1,37 @@
+Id,Ó¢ÎÄ
+Id,en
+cardSpecialDesc_1001,"<color=#ffffff>Poisoned£º</color>Take damage at start of turn,then amount-1."
+cardSpecialDesc_1002,<color=#ffffff>Armor: </color>Withstand damage.
+cardSpecialDesc_1003,"<color=#ffffff>Burn: </color>Take fire damage when using card, then amount-2"
+cardSpecialDesc_1004,<color=#ffffff>Frailty: </color>Take additional damage this turn.
+cardSpecialDesc_1005,"<color=#ffffff>Chilled: </color>Deal less damage to the enemy,then amount-2."
+cardSpecialDesc_1006,"<color=#ffffff>Weakness: </color>The physical damage you deal decreases by 50%,last for 1 turn."
+cardSpecialDesc_1007,"<color=#ffffff>Double Effect: </color>When used, takes effects 1 more time."
+cardSpecialDesc_1008,1
+cardSpecialDesc_1009,"<color=#ffffff>Side effect:</color>Includes Burn,Chilled,Stuck,Poison"
+cardSpecialDesc_1010,<color=#ffffff>Temporary£º</color>Will disapear after use.Won't be shuffled to deck.
+cardSpecialDesc_1011,1
+cardSpecialDesc_1012,1
+cardSpecialDesc_1013,1
+cardSpecialDesc_1014,1
+cardSpecialDesc_1015,"<color=#ffffff>Stuck:</color>Have chance of losing effect when using card,then amount-2."
+cardSpecialDesc_1016,"<color=#ffffff>Freeze:</color>1-cost action card:Exile,draw a card."
+cardSpecialDesc_1017,"<color=#ffffff>Drained:</color>2-mana-cost card:Exile,draw a card,enemy gain 2 mana."
+cardSpecialDesc_1018,<color=#ffffff>Potent:</color>Your Potions are more effectable.
+cardSpecialDesc_1019,"<color=#ffffff>Exile:</color>When a card is Exiled,it can never be drawn in this combat anymore."
+cardSpecialDesc_1020,<color=#ffffff>Prank:</color>Prank is a blank card that can not be played.
+cardSpecialDesc_1021,<color=#ffffff>Type:</color>Potions with same name but different grades are regarded as same type.
+cardSpecialDesc_1022,"<color=#ffffff>Lightning Link:</color>1-mana-cost card:deal 1 lightning damage,draw 2 1-mana-cost card."
+cardSpecialDesc_1023,<color=#ffffff>Potion:</color>Potions are cards whose name contain Potion.
+cardSpecialDesc_1024,<color=#ffffff>Decoction:</color>1-action-cost card:Exiled.Action+1.Add a random card to your hand.
+cardSpecialDesc_1025,"<color=#ffffff>Battery:</color>Equipment card:When your spell card takes effect,deal 1 lightning damage."
+cardSpecialDesc_1026,"<color=#ffffff>Take effect:</color>If you use a card who's effect is doubled,it will take effect more times."
+cardSpecialDesc_1027,"<color=#ffffff>Own:</color>Before the combat starts,the cards in your deck is regarded as you own them."
+cardSpecialDesc_1028,<color=#ffffff>Recycle(X):</color>Add a copy to your hand.Can be triggered X times.
+cardSpecialDesc_1029,"<color=#ffffff>Blood Drinker:</color>1-mana-cost card:Exiled.Absorb 2 health,draw a card."
+cardSpecialDesc_1030,1
+cardSpecialDesc_1031,<color=#ffffff>Potent Brewing:</color>1-action-cost card:Exiled.Gain potent ¡Á1.
+cardSpecialDesc_1032,<color=#ffffff>Bleeding:</color>Take 1 piercing damage when you take physical damage.
+cardSpecialDesc_1033,<color=#ffffff>Confession: </color>Deal piercing damage to the enemy at start of your turn.
+cardSpecialDesc_1034,<color=#ffffff>Pyroblast:</color>8-mana-cost card:Deal 25 fire damage.
+cardSpecialDesc_1035,<color=#ffffff>Recycle:</color>Add a copy to your hand after use.
