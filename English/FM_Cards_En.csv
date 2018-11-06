@@ -1,6 +1,6 @@
-Id,”¢Œƒ
+Id,√ìÀò√é√Ñ
 Id,en
-cardName_1,Basic Attack
+cardName_1,Basic Attack112
 cardDesc_1,Deal 1 damage.
 cardName_2,Basic Attack
 cardDesc_2,Deal 2 damage.
@@ -78,13 +78,13 @@ cardName_29,Painful Strike
 cardDesc_29,Deal 6 damage. Gain 6 mana.
 cardLevelUpDesc_29,Deal <color=#8adf6a>6</color> damage. Gain <color=#8adf6a>6</color> mana.
 cardName_30,Infection
-cardDesc_30,Enemy suffers <color=#e6c14f>Poisoned</color> °¡1.
+cardDesc_30,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å1.
 cardName_31,Infection
-cardDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> °¡2.
-cardLevelUpDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>2</color>.
+cardDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å2.
+cardLevelUpDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>2</color>.
 cardName_32,Infection
-cardDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> °¡3.
-cardLevelUpDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>3</color>.
+cardDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å3.
+cardLevelUpDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>3</color>.
 cardName_33,Swift Strike
 cardDesc_33,Deal 1 damage. Draw 1 card.
 cardName_34,Swift Strike
@@ -108,7 +108,7 @@ cardDesc_41,Deal 5 damage. The damage you take decreases by 1 until next turn.
 cardName_42,Shield Crusher
 cardDesc_42,Deal 2 damage to the enemy and lose 50% Armor.
 cardName_43,Burn
-cardDesc_43,Enemy suffers <color=#e6c14f>Burn</color> °¡2.
+cardDesc_43,Enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å2.
 cardName_44,Chaos Strike
 cardDesc_44,"Deal 2, 4 or 6 damage at random."
 cardName_45,Chaos Strike
@@ -123,7 +123,7 @@ cardName_48,Claw Swipe
 cardDesc_48,Deal 6 damage
 cardLevelUpDesc_48,Deal <color=#8adf6a>6</color> damage
 cardName_49,Burn
-cardDesc_49,Enemy suffers <color=#e6c14f>Burn</color> °¡3.
+cardDesc_49,Enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å3.
 cardName_50,Bite of Fear
 cardDesc_50,Deal 6 damage. The enemy suffers <color=#e6c14f>Weakness</color> for 1 turn.
 cardName_51,Shapeshifter
@@ -258,7 +258,7 @@ cardDesc_215,Gain 5 mana. Blocks any effects from the next card your enemy plays
 cardName_216,Magic Flames
 cardDesc_216,Gain 3 mana. Deal 3 fire damage. Fire damage +1.
 cardName_217,Magic Frost
-cardDesc_217,Gain 3 mana. Deal 3 water damage. Enemy suffers <color=#e6c14f>Chilled</color> °¡2.
+cardDesc_217,Gain 3 mana. Deal 3 water damage. Enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
 cardName_218,Inspiration
 cardDesc_218,Gain 5 mana and then draw 1 spell card from your deck.
 cardName_219,Mana Leech
@@ -276,7 +276,7 @@ cardDesc_305,"At start of your turn, deal damage equals to your current level."
 cardName_306,Dirk
 cardDesc_306,"Each time you use 2 attack cards, deal 1 damage."
 cardName_307,Poison Dagger
-cardDesc_307,"For every 2 attack cards you use, enemy suffers <color=#e6c14f>Poisoned</color> °¡1."
+cardDesc_307,"For every 2 attack cards you use, enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å1."
 cardName_308,Soul Furnace
 cardDesc_308,"When you use an upgradable card to defeat your enemy, that card's level will increase by 1."
 cardName_309,Life Talisman
@@ -284,7 +284,7 @@ cardDesc_309,You are immune from damage during your turn.
 cardName_310,Magic Staff
 cardDesc_310,"For each 2 mana you gain, deal 1 damage."
 cardName_311,Round Shield
-cardDesc_311,"At start of your turn, gain <color=#e6c14f>Armor</color> °¡2"
+cardDesc_311,"At start of your turn, gain <color=#e6c14f>Armor</color> ƒÑ√Å2"
 cardName_312,Longbow
 cardDesc_312,"Each time you use an action card, deal 1 damage."
 cardName_313,Lightning Blade
@@ -302,8 +302,8 @@ cardDesc_318,Restore 1 health for each 4 damage you deal.
 cardName_319,Blazing Cloak
 cardDesc_319,"Each time the enemy uses an attack card, they take 2 fire damage."
 cardName_320,Round Shield
-cardDesc_320,"At start of your turn, gain <color=#e6c14f>Armor</color> °¡3"
-cardLevelUpDesc_320,"At start of your turn, gain <color=#e6c14f>Armor</color> °¡<color=#8adf6a>3</color>"
+cardDesc_320,"At start of your turn, gain <color=#e6c14f>Armor</color> ƒÑ√Å3"
+cardLevelUpDesc_320,"At start of your turn, gain <color=#e6c14f>Armor</color> ƒÑ√Å<color=#8adf6a>3</color>"
 cardName_321,Magic Emerald
 cardDesc_321,"When you use a spell card, draw 1 card (up to 3 cards each turn)."
 cardName_322,Camo Outfit
@@ -311,7 +311,7 @@ cardDesc_322,"10% chance of dodging damage. When you trigger this effect, draw 1
 cardName_323,Wraith Blade
 cardDesc_323,"Each time you draw an extra card, the enemy takes 1 physical damage."
 cardName_324,Deadly Dagger
-cardDesc_324,"At end of your turn, deal physical damage equal to remaining Action °¡2 to the enemy, and then lose all your Action."
+cardDesc_324,"At end of your turn, deal physical damage equal to remaining Action ƒÑ√Å2 to the enemy, and then lose all your Action."
 cardName_325,Angel Mirror
 cardDesc_325,"At start of your turn, copy 1 random card (non-equipment) from your deck to your hand."
 cardName_326,Banner of Courage
@@ -321,7 +321,7 @@ cardDesc_327,"Each time you use a Basic Attack card,add a <color=#e6c14f>tempora
 cardName_328,Burning Fruit
 cardDesc_328,"At start of your turn, add a <color=#e6c14f>temporary</color> fire attack card to your hand."
 cardName_329,Soul Stealer
-cardDesc_329,"When you use an attack card, the enemy suffers <color=#e6c14f>Frailty</color> °¡1."
+cardDesc_329,"When you use an attack card, the enemy suffers <color=#e6c14f>Frailty</color> ƒÑ√Å1."
 cardName_330,Magic Totem
 cardDesc_330,"At start of your turn, the Magic Totem gets 1 mark. Each mark grants 1 mana."
 cardName_331,Blitz Totem
@@ -347,14 +347,14 @@ cardDesc_340,<color=#e6c14f>Exiled</color>.Immunity to lethal damage for 1 turn.
 cardName_341,Blazing Cloak
 cardDesc_341,"Each time the enemy uses an attack card, they take 3 fire damage."
 cardName_342,Round Shield
-cardDesc_342,"At start of your turn,  gain <color=#e6c14f>Armor</color> °¡4"
-cardLevelUpDesc_342,"At start of your turn,  gain <color=#e6c14f>Armor</color> °¡<color=#8adf6a>4</color>"
+cardDesc_342,"At start of your turn,  gain <color=#e6c14f>Armor</color> ƒÑ√Å4"
+cardLevelUpDesc_342,"At start of your turn,  gain <color=#e6c14f>Armor</color> ƒÑ√Å<color=#8adf6a>4</color>"
 cardName_400,Brainstorm
 cardDesc_400,Draw 3 cards.
 cardName_401,Acid Spray
-cardDesc_401,Enemy suffers <color=#e6c14f>Poisoned</color> °¡3.
+cardDesc_401,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å3.
 cardName_402,Acid Bomb
-cardDesc_402,Enemy suffers <color=#e6c14f>Poisoned</color> °¡6
+cardDesc_402,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å6
 cardName_403,Blazing Charge
 cardDesc_403,Deal 7 fire damage.
 cardName_404,Fireball
@@ -392,9 +392,9 @@ cardDesc_419,Draw 2 cards. You have a 30% chance of getting an extra turn.
 cardName_420,Heaven and Hell
 cardDesc_420,Choice: Deal 5 piercing damage to the enemy or draw 2 cards.
 cardName_421,Hand of God
-cardDesc_421,"Triggers 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> °¡15."
+cardDesc_421,"Triggers 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ƒÑ√Å15."
 cardName_422,Holy Shield
-cardDesc_422,Gain <color=#e6c14f>Armor</color> °¡8.
+cardDesc_422,Gain <color=#e6c14f>Armor</color> ƒÑ√Å8.
 cardName_423,Absolute Defense
 cardDesc_423,The damage you take decreases by 2 until next turn.
 cardName_424,Firewall
@@ -414,7 +414,7 @@ cardDesc_430,<color=#e6c14f>Exiled</color>.Deal 10 piercing damage to the enemy.
 cardName_431,Purifying Light
 cardDesc_431,Restore 10 health. Overhealing is converted into Piercing damage to the enemy.
 cardName_432,Wither
-cardDesc_432,"The enemy's Poison status doubles, and then they suffer <color=#e6c14f>Poisoned</color> °¡6."
+cardDesc_432,"The enemy's Poison status doubles, and then they suffer <color=#e6c14f>Poisoned</color> ƒÑ√Å6."
 cardName_433,Shrink
 cardDesc_433,The enemy loses half their health (up to 60 points).
 cardName_434,Revenge
@@ -428,13 +428,13 @@ cardDesc_437,"Block the next 5 points of damage. For each point of damage you bl
 cardName_438,Thundercloud
 cardDesc_438,"Deal 5 lightning damage. For each 1 mana you have left, you deal 1 additional lightning damage (up to 50)."
 cardName_439,Cold Snap
-cardDesc_439,Deal 4 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡2.
+cardDesc_439,Deal 4 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
 cardName_440,Blizzard
-cardDesc_440,Deal 10 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡3.
+cardDesc_440,Deal 10 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å3.
 cardName_441,Lethal Frost
-cardDesc_441,Deal 16 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡4.
+cardDesc_441,Deal 16 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å4.
 cardName_442,Solidify
-cardDesc_442,Your enemy draws 1 less card at the start of their next turn and suffers <color=#e6c14f>Chilled</color> °¡3.
+cardDesc_442,Your enemy draws 1 less card at the start of their next turn and suffers <color=#e6c14f>Chilled</color> ƒÑ√Å3.
 cardName_443,Thunderclap
 cardDesc_443,Deal 5 lightning damage. Your next spell card has no mana cost.
 cardName_444,Blessing
@@ -496,9 +496,9 @@ cardDesc_518,Draw 3 cards and then discard 2 cards from your hand.
 cardName_519,Lunacy
 cardDesc_519,"During this turn, deal 4 piercing damage each time you discard a hand."
 cardName_520,Poison Sting
-cardDesc_520,Deal 2 damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> °¡1.
+cardDesc_520,Deal 2 damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å1.
 cardName_521,Venom
-cardDesc_521,Enemy suffers <color=#e6c14f>Poisoned</color> °¡3.
+cardDesc_521,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å3.
 cardName_522,Incentivize
 cardDesc_522,Deal 1 damage and draw 1 card.
 cardName_523,Soul Blitz
@@ -508,11 +508,11 @@ cardDesc_524,Restore 5 health. Destroy 1 piece of enemy equipment on the combatf
 cardName_525,Reward
 cardDesc_525,Deal 2 damage and draw 1 card.
 cardName_526,Bleed
-cardDesc_526,Draw 1 card. Enemy suffers <color=#e6c14f>Poisoned</color> °¡3.
+cardDesc_526,Draw 1 card. Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å3.
 cardName_527,Bewitch
 cardDesc_527,The enemy draws 1 less card on the next turn.
 cardName_528,Frost Breath
-cardDesc_528,"When the enemy draws a card on their next turn, they discard 2 cards at random and suffer <color=#e6c14f>Weakness</color> °¡1."
+cardDesc_528,"When the enemy draws a card on their next turn, they discard 2 cards at random and suffer <color=#e6c14f>Weakness</color> ƒÑ√Å1."
 cardName_529,Change of Heart
 cardDesc_529,Get 2 cards from the enemy's deck at random.
 cardName_530,Prediction
@@ -530,22 +530,22 @@ cardDesc_535,Gain 3 Action. Draw 1 card.
 cardName_536,Lightning Flash
 cardDesc_536,Deal 2 lightning damage. Draw 1 card. Action +1.
 cardName_537,Fatal Strike
-cardDesc_537,Draw 1 card. Action +1. Enemy suffers <color=#e6c14f>Poisoned</color> °¡1.
+cardDesc_537,Draw 1 card. Action +1. Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å1.
 cardName_538,Accelerate
 cardDesc_538,Draw 1 card. Action +2.
 cardName_539,Sprint
 cardDesc_539,Draw 3 cards. Action +3.
 cardName_540,Spider Web
-cardDesc_540,"<color=#e6c14f>Exiled</color>.Draw a card.Each time the enemy uses 2 cards, they suffer <color=#e6c14f>Poisoned</color> °¡1."
+cardDesc_540,"<color=#e6c14f>Exiled</color>.Draw a card.Each time the enemy uses 2 cards, they suffer <color=#e6c14f>Poisoned</color> ƒÑ√Å1."
 cardName_541,Spider Web
-cardDesc_541,"<color=#e6c14f>Exiled</color>Draw a card.Each time the enemy uses 1 card, they suffer <color=#e6c14f>Poisoned</color> °¡1."
-cardLevelUpDesc_541,"<color=#e6c14f>Exiled</color>Draw a card.Each time the enemy uses <color=#8adf6a>1</color> card, they suffer <color=#e6c14f>Poisoned</color> °¡1."
+cardDesc_541,"<color=#e6c14f>Exiled</color>Draw a card.Each time the enemy uses 1 card, they suffer <color=#e6c14f>Poisoned</color> ƒÑ√Å1."
+cardLevelUpDesc_541,"<color=#e6c14f>Exiled</color>Draw a card.Each time the enemy uses <color=#8adf6a>1</color> card, they suffer <color=#e6c14f>Poisoned</color> ƒÑ√Å1."
 cardName_542,Corrosion
 cardDesc_542,The enemy loses 10 health and maximun health.
 cardName_543,Spring Cleaning
 cardDesc_543,Discard your hand and draw a new hand of equal size.
 cardName_544,Tenacious Defense
-cardDesc_544,"Discard your hand. For each card you discard, you gain <color=#e6c14f>Armor</color> °¡5."
+cardDesc_544,"Discard your hand. For each card you discard, you gain <color=#e6c14f>Armor</color> ƒÑ√Å5."
 cardName_545,Potent Strike
 cardDesc_545,The next damage you deal from a card this turn will be doubled.
 cardName_546,Plot
@@ -555,7 +555,7 @@ cardDesc_547,Deal 3 damage. The enemy loses all their mana.
 cardName_548,Last Hope
 cardDesc_548,"<color=#e6c14f>Exiled</color>.Get an extra turn. At end of turn, your health decreases to 1."
 cardName_549,Execution
-cardDesc_549,"Deal 2 damage. When the target's health is below 30%, deal 10°¡ damage."
+cardDesc_549,"Deal 2 damage. When the target's health is below 30%, deal 10ƒÑ√Å damage."
 cardName_550,Raid
 cardDesc_550,<color=#e6c14f>Exiled</color>.Draw 3 cards. 
 cardName_551,Emergency Healing
@@ -567,9 +567,9 @@ cardDesc_553,Deal 3 additional damage until end of turn.
 cardName_554,Binding Flames
 cardDesc_554,"Deal 3 fire damage. At start of next turn, deal 3 more fire damage."
 cardName_555,Singe
-cardDesc_555,"Enemy suffers <color=#e6c14f>Frailty</color> °¡2. During your next turn, you also suffer <color=#e6c14f>Frailty</color> °¡2."
+cardDesc_555,"Enemy suffers <color=#e6c14f>Frailty</color> ƒÑ√Å2. During your next turn, you also suffer <color=#e6c14f>Frailty</color> ƒÑ√Å2."
 cardName_556,Cripple
-cardDesc_556,The enemy suffers <color=#e6c14f>Frailty</color> °¡2.
+cardDesc_556,The enemy suffers <color=#e6c14f>Frailty</color> ƒÑ√Å2.
 cardName_557,Escape
 cardDesc_557,<color=#e6c14f>Exiled</color>.Immunity to all damage for 1 turn. 
 cardName_558,Auction Ticket
@@ -599,7 +599,7 @@ cardDesc_568,The enemy loses all their mana and Action.
 cardName_569,Hidden Bomb
 cardDesc_569,Destroy all equipment (both sides). The enemy takes 5 damage for each piece of equipment that is destroyed.
 cardName_570,Angel's Blessing
-cardDesc_570,Gain <color=#e6c14f>Armor</color> °¡8.
+cardDesc_570,Gain <color=#e6c14f>Armor</color> ƒÑ√Å8.
 cardName_571,Stumble
 cardDesc_571,"Each time the enemy uses a card, they discard another card at random. Lasts 1 turn."
 cardName_572,Impact
@@ -638,7 +638,7 @@ cardDesc_587,Get 1 enemy equipment card from the combatfield.
 cardName_588,Holy Providence
 cardDesc_588,"<color=#e6c14f>Exiled</color>,Draw a card.This combat, restore 2 health at start of each turn. "
 cardName_589,Corrosive Potion
-cardDesc_589,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> °¡1. 
+cardDesc_589,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ƒÑ√Å1. 
 cardName_590,Predetermined Route
 cardDesc_590,"Draw 1 card. If this card is discarded because of other effects, draw 2 cards."
 cardName_591,Pre-emptive Attack
@@ -670,7 +670,7 @@ cardDesc_607,"Deal 2 damage,disable the next card your enemy plays."
 cardName_608,Defang
 cardDesc_608,Enemy physical damage decreases by 3. Lasts 1 turn.
 cardName_609,Poison Gas
-cardDesc_609,Enemy suffers <color=#e6c14f>Poisoned</color> °¡3.Gain <color=#e6c14f>Armor</color> °¡3 
+cardDesc_609,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å3.Gain <color=#e6c14f>Armor</color> ƒÑ√Å3 
 cardName_610,Thunderstorm
 cardDesc_610,Deal 5 lightning damage and lose 2 Action.
 cardName_611,Stun
@@ -693,7 +693,7 @@ cardDesc_618,You cannot play cards on your next turn.
 cardName_619,Test 5 - Get Card
 cardDesc_619,View the top 3 cards in your enemy's deck and choose 1 to take.
 cardName_620,Card Soul
-cardDesc_620,You gain <color=#e6c14f>Armor</color> °¡2 for each card (other than this one) you have in your hand.
+cardDesc_620,You gain <color=#e6c14f>Armor</color> ƒÑ√Å2 for each card (other than this one) you have in your hand.
 cardName_5632,Bone Shield
 cardDesc_5632,Blocks 5 points of future damage.
 cardLevelUpDesc_5632,Blocks <color=#8adf6a>5 </color>points of future damage.
@@ -726,11 +726,11 @@ cardDesc_711,Takes 15 damage.
 cardName_712,Fear
 cardDesc_712,Maximum hand size and card draws decrease by 3.Last 1 turn.
 cardName_713,Infection
-cardDesc_713,Suffers <color=#e6c14f>Poisoned</color> °¡8.
+cardDesc_713,Suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å8.
 cardName_714,Tremble
 cardDesc_714,Action decreases by 1 during this turn.
 cardName_715,Protect
-cardDesc_715,Grandma gains <color=#e6c14f>Armor</color> °¡30.
+cardDesc_715,Grandma gains <color=#e6c14f>Armor</color> ƒÑ√Å30.
 cardName_716,Hesitate
 cardDesc_716,First 3 damage cards this turn target herself.
 cardName_717,Treatment
@@ -742,11 +742,11 @@ cardDesc_719,Take 20 damage.
 cardName_720,Fear
 cardDesc_720,Maximum hand size and card draws decrease by 3.Last 1 turn.
 cardName_721,Infection
-cardDesc_721,Suffers <color=#e6c14f>Poisoned</color> °¡10.
+cardDesc_721,Suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å10.
 cardName_722,Tremble
 cardDesc_722,Action decreases by 1 during this combat.
 cardName_723,Protect
-cardDesc_723,Grandma gains <color=#e6c14f>Armor</color> °¡40.
+cardDesc_723,Grandma gains <color=#e6c14f>Armor</color> ƒÑ√Å40.
 cardName_724,Hesitate
 cardDesc_724,First 3 damage cards this turn target herself.
 cardName_725,Treatment
@@ -758,7 +758,7 @@ cardDesc_1002,"Deal 1 damage. Draw 1 card. When you use an attack card, get this
 cardName_1003,Hoodwink
 cardDesc_1003,<color=#e6c14f>Exiled</color>.Triggers when either side use an attack card: Get 2 temporary copies.
 cardName_1004,Chain Gang
-cardDesc_1004,Triggers when a counter card is triggered on enemy's turn: Deal 2 piercing damage 2 times.Enemy suffers <color=#e6c14f>Frailty</color> °¡2.
+cardDesc_1004,Triggers when a counter card is triggered on enemy's turn: Deal 2 piercing damage 2 times.Enemy suffers <color=#e6c14f>Frailty</color> ƒÑ√Å2.
 cardName_1005,Mislead
 cardDesc_1005,Triggers when the enemy uses an attack card: Get 1 card from your enemy's hand at random.
 cardName_1006,Enforcer
@@ -779,7 +779,7 @@ cardDesc_1016,<color=#e6c14f>Exiled</color>.Put 3 of your counter cards from you
 cardName_1017,Float
 cardDesc_1017,Highest mana cost in your hand decreases by 2. Draw 1 card.
 cardName_1018,Magic Hood
-cardDesc_1018,"When you use a counter card, you gain <color=#e6c14f>Armor</color> °¡2."
+cardDesc_1018,"When you use a counter card, you gain <color=#e6c14f>Armor</color> ƒÑ√Å2."
 cardName_1019,Silver Shroud
 cardDesc_1019,"At start of your turn, use one counter or attack card from your deck."
 cardName_1021,Magic Field
@@ -871,7 +871,7 @@ cardDesc_1095,The last card in your hand deals double damage.
 cardName_1096,betray
 cardDesc_1096,Exchange this card with the 2 cards from enemy's deck.
 cardName_1100,Gaze
-cardDesc_1100,Triggers when enemy plays an attack card. Enemy gains <color=#e6c14f>Frailty</color> °¡2.
+cardDesc_1100,Triggers when enemy plays an attack card. Enemy gains <color=#e6c14f>Frailty</color> ƒÑ√Å2.
 cardName_1102,Evil Crystal
 cardDesc_1102,Enemy takes 3 additional damage this turn.
 cardName_1104,Omnislice
@@ -885,7 +885,7 @@ cardLevelUpDesc_1106,Deal 1 damage. Repeats <color=#8adf6a>5</color> times.
 cardName_1107,Battle Staff
 cardDesc_1107,"When you use an attack card, reduces your spell cost by 1 during that turn."
 cardName_1108,Temporary Protection
-cardDesc_1108,"Gain <color=#e6c14f>Armor</color> °¡15. At start of your next turn, lose them."
+cardDesc_1108,"Gain <color=#e6c14f>Armor</color> ƒÑ√Å15. At start of your next turn, lose them."
 cardName_1109,Introspection
 cardDesc_1109,<color=#e6c14f>Exiled</color>.Choice: Gain 3 mana at start of each turn or immediately gain 10 mana.
 cardName_1110,Magic Flying Blade
@@ -895,7 +895,7 @@ cardDesc_1115,Your enemy takes 2 additional damage during their turn.
 cardName_1116,Christmas Gift
 cardDesc_1116,Open 3 gifts.
 cardName_1117,Spores Galore
-cardDesc_1117,"Enemy suffers <color=#e6c14f>Poisoned</color> °¡2. If this card is in your graveyard at start of turn, it returns to your hand."
+cardDesc_1117,"Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å2. If this card is in your graveyard at start of turn, it returns to your hand."
 cardName_1118,Treasure Hunt!
 cardDesc_1118,Discover 1 card and shuffle it into your deck. Shuffle the rest of the cards into your enemy's deck.
 cardName_1119,Spikes
@@ -924,19 +924,19 @@ cardDesc_1143,"Draw 1 cards, if it is a spell,it costs 0."
 cardName_1603,Freeze
 cardDesc_1603,<color=#e6c14f>Exiled</color>.Draw 1 card.
 cardName_1701,Candle
-cardDesc_1701,The enemy suffers <color=#e6c14f>Burn</color> °¡2. Draw 1 card.
+cardDesc_1701,The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å2. Draw 1 card.
 cardName_1702,Tea Time
 cardDesc_1702,Gain 8 mana. Draw 1 card.
 cardName_1703,Sweep
-cardDesc_1703,Deal 4 damage. Gain <color=#e6c14f>Armor</color> °¡4. Draw 1 card.
+cardDesc_1703,Deal 4 damage. Gain <color=#e6c14f>Armor</color> ƒÑ√Å4. Draw 1 card.
 cardName_1705,Blood Rose
 cardDesc_1705,Your maximun health increases by 5. Restore 5 health.
 cardName_1706,Chicken Drumstick
 cardDesc_1706,Restore 2 health. Draw 1 card.
 cardName_1707,No Trespassing!
-cardDesc_1707,Gain <color=#e6c14f>Armor</color> °¡4. Your opponent's next card does nothing.
+cardDesc_1707,Gain <color=#e6c14f>Armor</color> ƒÑ√Å4. Your opponent's next card does nothing.
 cardName_1708,Robo-rabbit
-cardDesc_1708,Gain <color=#e6c14f>Armor</color> °¡3.\nDraw 2 cards.
+cardDesc_1708,Gain <color=#e6c14f>Armor</color> ƒÑ√Å3.\nDraw 2 cards.
 cardName_1709,Hypnosis
 cardDesc_1709,The enemy loses all their Action. You draw 1 card for each point of Action they lose.
 cardName_1710,Intoxication
@@ -957,14 +957,14 @@ cardDesc_1718,"<color=#e6c14f>Exiled</color>.Enemy loses all actions,draw a card
 cardName_1722,Puppet tricks
 cardDesc_1722,"Select 1 counter cards on the field, gain 2 temporary copies"
 cardName_2005,Angel's Blessing
-cardDesc_2005,Gain <color=#e6c14f>Armor</color> °¡10.
-cardLevelUpDesc_2005,Gain <color=#e6c14f>Armor</color> °¡<color=#8adf6a>10</color>.
+cardDesc_2005,Gain <color=#e6c14f>Armor</color> ƒÑ√Å10.
+cardLevelUpDesc_2005,Gain <color=#e6c14f>Armor</color> ƒÑ√Å<color=#8adf6a>10</color>.
 cardName_2009,Moonlight Code
 cardDesc_2009,Gain 3 mana at the start of turn.
 cardLevelUpDesc_2009,Gain <color=#8adf6a>3</color> mana at the start of turn.
 cardName_2011,Dexterity Talisman
 cardDesc_2011,25% chance of dodging damage.
-cardLevelUpDesc_2011,<color=#8adf6a>25£•</color> chance of dodging damage.
+cardLevelUpDesc_2011,<color=#8adf6a>25≈ÅƒΩ</color> chance of dodging damage.
 cardName_2013,Healing Ointment
 cardDesc_2013,Gain 3 mana and 6 health.
 cardLevelUpDesc_2013,Gain <color=#8adf6a>3</color> mana and <color=#8adf6a>6</color> health.
@@ -975,13 +975,13 @@ cardName_2015,Magic Flames
 cardDesc_2015,Gain 5 mana. Deal 5 fire damage. Fire damage +1. 
 cardLevelUpDesc_2015,Gain <color=#8adf6a>5</color> mana. Deal <color=#8adf6a>5</color> fire damage. Fire damage +1.
 cardName_2017,Magic Frost
-cardDesc_2017,Gain 5 mana. Deal 5 water damage. Enemy suffers <color=#e6c14f>Chilled</color> °¡2.
-cardLevelUpDesc_2017,Gain <color=#8adf6a>5</color> mana. Deal <color=#8adf6a>5</color> water damage. Enemy suffers <color=#e6c14f>Chilled</color> °¡2.
+cardDesc_2017,Gain 5 mana. Deal 5 water damage. Enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
+cardLevelUpDesc_2017,Gain <color=#8adf6a>5</color> mana. Deal <color=#8adf6a>5</color> water damage. Enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
 cardName_2019,Elemental Wave
 cardDesc_2019,Deal 2 fire and 2 water and 2 lightning damage.
 cardLevelUpDesc_2019,Deal 2 fire and 2 water <color=#8adf6a>and 2 lightning</color> damage.
 cardName_2021,Holy Shield
-cardDesc_2021,Gain <color=#e6c14f>Armor</color> °¡8.
+cardDesc_2021,Gain <color=#e6c14f>Armor</color> ƒÑ√Å8.
 cardName_2029,Flying Kick
 cardDesc_2029,"Deal 1 damage. Draw a card. If this is the first card you use this turn, the damage you deal increases by 9."
 cardLevelUpDesc_2029,"Deal 1 damage. Draw a card. If this is the first card you use this turn, the damage you deal increases by <color=#8adf6a>9</color>."
@@ -1015,20 +1015,20 @@ cardName_2052,Pyroblast
 cardDesc_2052,Deal 30 fire damage
 cardLevelUpDesc_2052,Deal <color=#8adf6a>30</color> fire damage.
 cardName_2053,Cold Snap
-cardDesc_2053,Deal 6 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡2.
-cardLevelUpDesc_2053,Deal <color=#8adf6a>6</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡2.
+cardDesc_2053,Deal 6 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
+cardLevelUpDesc_2053,Deal <color=#8adf6a>6</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2.
 cardName_2054,Blizzard
-cardDesc_2054,Deal 12 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡3.
-cardLevelUpDesc_2054,Deal <color=#8adf6a>12</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡3.
+cardDesc_2054,Deal 12 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å3.
+cardLevelUpDesc_2054,Deal <color=#8adf6a>12</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å3.
 cardName_2055,Lethal Frost
-cardDesc_2055,Deal 20 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡4.
-cardLevelUpDesc_2055,Deal <color=#8adf6a>20</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> °¡4.
+cardDesc_2055,Deal 20 water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å4.
+cardLevelUpDesc_2055,Deal <color=#8adf6a>20</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å4.
 cardName_2056,Acid Spray
-cardDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> °¡4.
-cardLevelUpDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>4</color> .
+cardDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å4.
+cardLevelUpDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>4</color> .
 cardName_2057,Acid Bomb
 cardDesc_2057,Enemy suffers <color=#e6c14f>Poison</color>*7.
-cardLevelUpDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>7</color>.
+cardLevelUpDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>7</color>.
 cardName_2058,Healing Potion
 cardDesc_2058,Restore 7 health. Any excess health will be converted to Armor.
 cardLevelUpDesc_2058,Restore <color=#8adf6a>7</color> health. Any excess health will be converted to Armor.
@@ -1044,7 +1044,7 @@ cardName_2063,Bizarre Rune
 cardDesc_2063,Your enemy takes 3 additional damage during their turn.
 cardLevelUpDesc_2063,Your enemy takes <color=#8adf6a>3</color> additional damage during their turn.
 cardName_2064,Firmly Hold
-cardDesc_2064,"Gain <color=#e6c14f>Armor</color> °¡12,enemy draw 2 cards"
+cardDesc_2064,"Gain <color=#e6c14f>Armor</color> ƒÑ√Å12,enemy draw 2 cards"
 cardName_2066,Special Delivery
 cardDesc_2066,<color=#e6c14f>Exiled</color>.Draw card until you reach max hand size.
 cardName_2067,Fabricate Rumors
@@ -1052,11 +1052,11 @@ cardDesc_2067,<color=#e6c14f>Exiled</color>.Get 2 random cards.
 cardName_2070,Demon Mirror
 cardDesc_2070,"At start of your turn, copy 1 random card (non-equipment) from enemy's deck to your hand."
 cardName_2071,Venom
-cardDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> °¡4.
-cardLevelUpDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>4</color>.
+cardDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å4.
+cardLevelUpDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>4</color>.
 cardName_2072,Venom
-cardDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> °¡5.
-cardLevelUpDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>5</color>.
+cardDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å5.
+cardLevelUpDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>5</color>.
 cardName_3002,Magic Curtain
 cardDesc_3002,Mana cost this turn decreases by 1. Draw 1 card.
 cardName_3004,Iron Curtain
@@ -1074,27 +1074,27 @@ cardDesc_3008,Choose 1 counter card from the combatfield. Place a temporary copy
 cardName_3009,Peep at Future
 cardDesc_3009,Draw 1 card.Current prayer card speed up by 1 turn.
 cardName_3035,Ice Potion
-cardDesc_3035,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡1. 
-cardDescEx_3035,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡{1}. 
+cardDesc_3035,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å1. 
+cardDescEx_3035,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å{1}. 
 cardName_3036,Ice Potion
-cardDesc_3036,Deal 2 water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡2. 
-cardLevelUpDesc_3036,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡<color=#8adf6a>2</color>. 
-cardDescEx_3036,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡{1}. 
+cardDesc_3036,Deal 2 water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å2. 
+cardLevelUpDesc_3036,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å<color=#8adf6a>2</color>. 
+cardDescEx_3036,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å{1}. 
 cardName_3037,Ice Potion
-cardDesc_3037,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡3. 
-cardLevelUpDesc_3037,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡<color=#8adf6a>3</color>. 
-cardDescEx_3037,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> °¡{1}. 
+cardDesc_3037,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å3. 
+cardLevelUpDesc_3037,Deal 3 water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å<color=#8adf6a>3</color>. 
+cardDescEx_3037,Deal {0} water damage.The enemy suffers <color=#e6c14f>Chilled</color> ƒÑ√Å{1}. 
 cardName_3038,Fire Potion
-cardDesc_3038,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡1. 
-cardDescEx_3038,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡{1}. 
+cardDesc_3038,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å1. 
+cardDescEx_3038,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å{1}. 
 cardName_3039,Fire Potion
-cardDesc_3039,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡2. 
-cardLevelUpDesc_3039,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡<color=#8adf6a>2</color>. 
-cardDescEx_3039,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡{1}. 
+cardDesc_3039,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å2. 
+cardLevelUpDesc_3039,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å<color=#8adf6a>2</color>. 
+cardDescEx_3039,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å{1}. 
 cardName_3040,Fire Potion
-cardDesc_3040,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡3. 
-cardLevelUpDesc_3040,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡<color=#8adf6a>3</color>. 
-cardDescEx_3040,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> °¡{1}. 
+cardDesc_3040,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å3. 
+cardLevelUpDesc_3040,Deal 3 fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å<color=#8adf6a>3</color>. 
+cardDescEx_3040,Deal {0} fire damage.The enemy suffers <color=#e6c14f>Burn</color> ƒÑ√Å{1}. 
 cardName_3042,Concentrate
 cardDesc_3042,<color=#e6c14f>Exiled</color>.Double the effect of each <color=#e6c14f>potion</color> in your hand or your deck.
 cardName_3161,Mental Collapse
@@ -1121,16 +1121,16 @@ cardDesc_3196,<color=#e6c14f>Exiled</color>.Gain a temporarily copy of the next 
 cardName_3200,Teleportation
 cardDesc_3200,<color=#e6c14f>Exiled</color>.Counter the next card your enemy plays.Draw a card on your next turn.
 cardName_3201,Sticky Potion
-cardDesc_3201,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡1
-cardDescEx_3201,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡{1}
+cardDesc_3201,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å1
+cardDescEx_3201,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å{1}
 cardName_3202,Sticky Potion
-cardDesc_3202,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡2
-cardLevelUpDesc_3202,Dea 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡<color=#8adf6a>2</color>
-cardDescEx_3202,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡{1}
+cardDesc_3202,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å2
+cardLevelUpDesc_3202,Dea 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å<color=#8adf6a>2</color>
+cardDescEx_3202,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å{1}
 cardName_3203,Sticky Potion
-cardDesc_3203,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡3
-cardLevelUpDesc_3203,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡<color=#8adf6a>3</color>
-cardDescEx_3203,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> °¡{1}
+cardDesc_3203,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å3
+cardLevelUpDesc_3203,Deal 3 damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å<color=#8adf6a>3</color>
+cardDescEx_3203,Deal {0} damage.The enemy suffers <color=#e6c14f>Stuck</color> ƒÑ√Å{1}
 cardName_3204,Shaky
 cardDesc_3204,"<color=#e6c14f>Exiled</color>.Choose an attack card from your hand,shuffle 3 temporary copy to your deck. "
 cardName_3207,Protect
@@ -1147,11 +1147,11 @@ cardLevelUpDesc_3210,"Gain <color=#8adf6a>2</color> Action. When you lose all Ac
 cardName_3211,Cocktail
 cardDesc_3211,Trigger the effect of each <color=#e6c14f>type</color> of <color=#e6c14f>potion</color> you <color=#e6c14f>own</color>.This card is guarantee to be in the starting hand.
 cardName_3212,Fetters of Souls
-cardDesc_3212,"Gain <color=#e6c14f>Armor</color> °¡5.If this card is discarded due to other effects, deal 5 damage,Get a <color=#e6c14f> temporary </color> copy of this card."
+cardDesc_3212,"Gain <color=#e6c14f>Armor</color> ƒÑ√Å5.If this card is discarded due to other effects, deal 5 damage,Get a <color=#e6c14f> temporary </color> copy of this card."
 cardName_3222,Card Pack
 cardDesc_3222,"When bought,add 3 random cards to your deck."
 cardName_3224,Wobble
-cardDesc_3224,<color=#e6c14f>Exiled</color>.Gain Potent °¡1.Draw a card.
+cardDesc_3224,<color=#e6c14f>Exiled</color>.Gain Potent ƒÑ√Å1.Draw a card.
 cardName_3225,Bellows
 cardDesc_3225,Enemy's <color=#e6c14f>Burn</color> triggers one additional time.
 cardName_3238,Shadow Potion
@@ -1179,7 +1179,7 @@ cardDesc_3260,<color=#e6c14f>Exiled</color>.Gain 20 mana.
 cardName_3261,Stamina Supply
 cardDesc_3261,<color=#e6c14f>Exiled</color>.Action + 3.
 cardName_3262,Potent Brewing
-cardDesc_3262,<color=#e6c14f>Exiled</color>.Gain Potent °¡1.
+cardDesc_3262,<color=#e6c14f>Exiled</color>.Gain Potent ƒÑ√Å1.
 cardName_3263,Battery
 cardDesc_3263,"When your spell card takes effect,deal 1 lightning damage."
 cardName_3267,Catch Fire
@@ -1226,9 +1226,9 @@ cardDesc_3303,The next attack card you play effects 2 more times.
 cardName_3305,Self-torture
 cardDesc_3305,Trigger the effect of your Confession.Draw a card.
 cardName_3306,Bleeding Arrows
-cardDesc_3306,Enemy suffers <color=#e6c14f>Bleeding</color> °¡12
+cardDesc_3306,Enemy suffers <color=#e6c14f>Bleeding</color> ƒÑ√Å12
 cardName_3307,Hemorrhage
-cardDesc_3307,Draw a card.Action + 1.Enemy suffers <color=#e6c14f>Bleeding</color> °¡6.
+cardDesc_3307,Draw a card.Action + 1.Enemy suffers <color=#e6c14f>Bleeding</color> ƒÑ√Å6.
 cardName_3308,Condolences
 cardDesc_3308,"Double the strength of all your prayer cards,but slow down for 3 turns."
 cardName_3309,Battery Charging
@@ -1236,10 +1236,10 @@ cardDesc_3309,<color=#e6c14f>Exiled</color>.Add a <color=#e6c14f>Battery</color>
 cardName_3312,Strong Crystal
 cardDesc_3312,<color=#e6c14f>Exiled</color>.Upgrade all your cards in your hand and deck.
 cardName_3314,Poison Barrel
-cardDesc_3314,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> °¡1."
+cardDesc_3314,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å1."
 cardName_3315,Poison Barrel
-cardDesc_3315,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> °¡2."
-cardLevelUpDesc_3315,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> °¡<color=#8adf6a>2</color>."
+cardDesc_3315,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å2."
+cardLevelUpDesc_3315,"On the start of each turn, enemy suffers <color=#e6c14f>Poisoned</color> ƒÑ√Å<color=#8adf6a>2</color>."
 cardName_3317,Spare Pocket
 cardDesc_3317,"<color=#e6c14f>Exiled</color>,Draw a card.Gain 2 mana each turn."
 cardName_3318,Rot
@@ -1304,11 +1304,11 @@ cardDesc_4022,<color=#e6c14f>Exile</color>  the leftmost card from your hand. De
 cardLevelUpDesc_4022,<color=#e6c14f>Exile</color>  the leftmost card from your hand. Deal <color=#8adf6a>8</color> damage.
 cardName_4033,Confession
 cardDesc_4033,Deal 4 piercing damage to the enemy at start of your turn.
-cardName_7005,Martyr°Øs Sword
+cardName_7005,MartyrƒÑ≈ªs Sword
 cardDesc_7005,"When you take damage on your turn,double the next damage you deal."
-cardName_7006,Martyr°Øs Armor
-cardDesc_7006,"On the start of your turn,take 1 piercing damage,gain <color=#e6c14f>Armor</color> °¡3."
-cardName_7011,Martyr°Øs Amulet
+cardName_7006,MartyrƒÑ≈ªs Armor
+cardDesc_7006,"On the start of your turn,take 1 piercing damage,gain <color=#e6c14f>Armor</color> ƒÑ√Å3."
+cardName_7011,MartyrƒÑ≈ªs Amulet
 cardDesc_7011,"On the start of your turn,take 1 piercing damage,draw a card."
 cardName_7023,Sacrifice
 cardDesc_7023,<color=#e6c14f>Exiled</color>.Action + 1.Take 1 piercing damage.Draw a card.
@@ -1318,7 +1318,7 @@ cardName_7035,Liquidation
 cardDesc_7035,Deal half damage you dealt last turn.
 cardDescEx_7035,Deal {0} damage.
 cardName_7036,Frost Amulet
-cardDesc_7036,"On start of each turn,gain 2 mana,enemy suffers <color=#e6c14f>Chilled</color>°¡2"
+cardDesc_7036,"On start of each turn,gain 2 mana,enemy suffers <color=#e6c14f>Chilled</color>ƒÑ√Å2"
 cardName_7037,Frost Amulet
-cardDesc_7037,"On start of each turn,gain 3 mana,enemy suffers <color=#e6c14f>Chilled</color>°¡3"
+cardDesc_7037,"On start of each turn,gain 3 mana,enemy suffers <color=#e6c14f>Chilled</color>ƒÑ√Å3"
 markTypeDesc_1,Spell Card
